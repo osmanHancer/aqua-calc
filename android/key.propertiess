@@ -1,0 +1,4 @@
+storePassword=sosolid38
+keyPassword=sosolid38
+keyAlias=upload
+storeFile=./keystore.jkss
